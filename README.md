@@ -1,11 +1,11 @@
 # Japanese Vocab For Machine Learning And AI
 Japanese Vocab For Machine Learning And AI
 
-* The postfix 学習 (がくしゅう) in Japanese translates to “learning” in English and is commonly used in technical terms, particularly in Machine Learning and Artificial Intelligence contexts. 
+* The postfix <ruby>学習<rt>がくしゅう</rt></ruby> in Japanese translates to “learning” in English and is commonly used in technical terms, particularly in Machine Learning and Artificial Intelligence contexts. 
 
 ## Core Machine Learning Topics
 ###	Supervised Learning - 教師あり学習 (きょうしありがくしゅう)
-  * Supervised Learning is a machine learning approach where a model is trained on a labeled dataset. The dataset consists of input data and corresponding output labels that the model is expected to predict. During training, the algorithm learns the relationship between the inputs and outputs by minimizing a loss function, which measures prediction error. Once trained, the model can generalize to new, unseen data to make accurate predictions. Supervised Learning is widely used in applications such as image classification and spam email detection.
+  * [Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning) is a machine learning approach where a model is trained on a labeled dataset. The dataset consists of input data and corresponding output labels that the model is expected to predict. During training, the algorithm learns the relationship between the inputs and outputs by minimizing a loss function, which measures prediction error. Once trained, the model can generalize to new, unseen data to make accurate predictions. Supervised Learning is widely used in applications such as image classification and spam email detection.
   * Japanese Terms
 	1.	Supervised Learning - 教師あり学習 (きょうしありがくしゅう)
 	2.	Machine Learning - 機械学習 (きかいがくしゅう)
