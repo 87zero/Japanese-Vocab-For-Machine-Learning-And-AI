@@ -1,7 +1,8 @@
 # Japanese Vocab For Machine Learning And AI
 Japanese Vocab For Machine Learning And AI
 
-* The postfix <ruby>学習<rt>がくしゅう</rt></ruby> in Japanese translates to “learning” in English and is commonly used in technical terms, particularly in Machine Learning and Artificial Intelligence contexts. 
+* The postfix <ruby>学習<rt>がくしゅう</rt></ruby> in Japanese translates to “learning” in English and is commonly used in technical terms, particularly in Machine Learning and Artificial Intelligence contexts.
+* <ruby>学習<rt>がくしゅう</rt> - study, learning.
 
 ## Core Machine Learning Topics
 ###	Supervised Learning - <ruby>教師<rt>きょうし</rt></ruby>あり<ruby>学習<rt>がくしゅう</rt></ruby>
